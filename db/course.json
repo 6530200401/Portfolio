@@ -1,0 +1,144 @@
+{
+  "students": [
+    {
+      "id": "01418112",
+      "courseNameTH": "แนวคิดการโปรแกรมเบื้องต้น",
+      "courseNameEng": "Fundamental Programming Concepts",
+      "credit": 3,
+      "grade": "A",
+      "studyYear": 2565,
+      "semester": "ภาคต้น",
+      "isShow": false
+    },
+    {
+      "id": "01999111",
+      "courseNameTH": "ศาสตร์แห่งแผ่นดิน",
+      "courseNameEng": "Knowledge of the Land",
+      "credit": 2,
+      "grade": "A",
+      "studyYear": 2565,
+      "semester": "ภาคต้น",
+      "isShow": false
+    },
+    {
+      "id": "01418141",
+      "courseNameTH": "ทรัพย์สินทางปัญญาและจรรยาบรรณวิชาชีพ",
+      "courseNameEng": "Intellectual Properties and Professional Ethics",
+      "credit": 3,
+      "grade": "A",
+      "studyYear": 2565,
+      "semester": "ภาคต้น",
+      "isShow": false
+    },
+    {
+      "id": "01418111",
+      "courseNameTH": "วิทยาการคอมพิวเตอร์เบื้องต้น",
+      "courseNameEng": "Introduction to Computer Science",
+      "credit": 2,
+      "grade": "A",
+      "studyYear": 2565,
+      "semester": "ภาคต้น",
+      "isShow": false
+    },
+    {
+      "id": "01417111",
+      "courseNameTH": "แคลคูลัส I",
+      "courseNameEng": "Calculus I",
+      "credit": 3,
+      "grade": "A",
+      "studyYear": 2565,
+      "semester": "ภาคต้น",
+      "isShow": false
+    },
+    {
+      "id": "02999144",
+      "courseNameTH": "ทักษะชีวิตการเป็นนิสิตมหาวิทยาลัย",
+      "courseNameEng": "Life Skill for Undergraduate Student",
+      "credit": 1,
+      "grade": "A",
+      "studyYear": 2565,
+      "semester": "ภาคต้น",
+      "isShow": false
+    },
+    {
+      "id": "01355102",
+      "courseNameTH": "ภาษาอังกฤษในมหาวิทยาลัย",
+      "courseNameEng": "English for University Life",
+      "credit": 3,
+      "grade": "A",
+      "studyYear": 2565,
+      "semester": "ภาคต้น",
+      "isShow": false
+    },
+    {
+      "id": "01999021",
+      "courseNameTH": "ภาษาไทยเพื่อการสื่อสาร",
+      "courseNameEng": "Thai Language for Communication",
+      "credit": 3,
+      "grade": "B+",
+      "studyYear": 2565,
+      "semester": "ภาคต้น",
+      "isShow": false
+    },
+    {
+      "id": "03600014",
+      "courseNameTH": "การแก้ปัญหาเชิงสร้างสรรค์และทักษะการคิดเชิงวิพากษ์",
+      "courseNameEng": "Creative Problem Solving and Critical Thinking Skills",
+      "credit": 3,
+      "grade": "A",
+      "studyYear": 2565,
+      "semester": "ภาคปลาย",
+      "isShow": false
+    },
+    {
+      "id": "03600012",
+      "courseNameTH": "เทคโนโลยีสีเขียว",
+      "courseNameEng": "Green Technology",
+      "credit": 3,
+      "grade": "B",
+      "studyYear": 2565,
+      "semester": "ภาคปลาย",
+      "isShow": false
+    },
+    {
+      "id": "01417322",
+      "courseNameTH": "พีชคณิตเชิงเส้นพื้นฐาน",
+      "courseNameEng": "Basic Linear Algebra",
+      "credit": 3,
+      "grade": "A",
+      "studyYear": 2565,
+      "semester": "ภาคปลาย",
+      "isShow": false
+    },
+    {
+      "id": "01418113",
+      "courseNameTH": "การโปรแกรมคอมพิวเตอร์",
+      "courseNameEng": "Computer Programming",
+      "credit": 3,
+      "grade": "A",
+      "studyYear": 2565,
+      "semester": "ภาคปลาย",
+      "isShow": false
+    },
+    {
+      "id": "01418132",
+      "courseNameTH": "หลักมูลการคณนา",
+      "courseNameEng": "Fundamentals of Computing",
+      "credit": 3,
+      "grade": "A",
+      "studyYear": 2565,
+      "semester": "ภาคปลาย",
+      "isShow": false
+    },
+    {
+      "id": "000000",
+      "courseNameTH": "วิทย์",
+      "courseNameEng": "data",
+      "credit": 2,
+      "grade": "A",
+      "studyYear": 2567,
+      "semester": "ภาคต้น",
+      "isShow": false
+    }
+  ]
+}
